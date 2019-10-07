@@ -6,6 +6,6 @@ header.id = 'victory';
 
 newHeader.innerHTML = "RAY is the champion"
 
-document.body.appendChild(header)
+document.body.appendChild(header);
 
 let newHeader = document.querySelector("h1#victory")
