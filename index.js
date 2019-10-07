@@ -1,3 +1,3 @@
 main.remove()
 
-let newHeader = document.queryselector('h1#victory')
+const newHeader = document.queryselector('h1#victory')
