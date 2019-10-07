@@ -1,3 +1,3 @@
 main.remove()
 
-let newHeader = document.queryselector('h1#victory')
+let newHeader = document.getElementById('h1#victory')
