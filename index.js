@@ -1,4 +1,4 @@
-main.remove()
+document.querySelectory('main#main').remove()
 
 let newHeader = document.createElement("h1");
 
