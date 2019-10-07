@@ -8,4 +8,4 @@ newHeader.innerHTML = "RAY is the champion"
 
 document.body.appendChild(header)
 
-let
+let newHeader = document.querySelector("h1#victory")
